@@ -17,7 +17,7 @@ Welcome to the repository for our cutting-edge Real Estate Portfolio Website, de
 
 Clone the repo
    ```sh
-   git clone https://github.com/yourusername/real-estate-portfolio.git
+   git clone https://github.com/jubayer98/TailwindCSS-daisyUI-Basic.git
    ```
 
 ## Contributing
