@@ -15,8 +15,6 @@ Welcome to the repository for our cutting-edge Real Estate Portfolio Website, de
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
 Clone the repo
    ```sh
    git clone https://github.com/yourusername/real-estate-portfolio.git
